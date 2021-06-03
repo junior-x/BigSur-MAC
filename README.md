@@ -18,7 +18,7 @@
 
 ---
 
-<h1 align="center">FILES CONFIG</h1>
+<h1 align="center">📨 FILES CONFIG</h1>
 
 Update files in linux~
 
@@ -43,9 +43,9 @@ After all extracted time to move it~
         `.icons` get ->    `icones-Mkos-Big-Sur` + `Cursor-macOSBigSur`
 
 ---
-<h1 align="center">SYSTEM SET-UP</h1>
+<h1 align="center">🧲 SYSTEM SET-UP</h1>
 
-# GNOME TWEAKS
+<h3>GNOME TWEAKS</h3>
 
 Start `>_ Terminal` 
 
@@ -59,6 +59,8 @@ Start `>_ Terminal`
 .
 
         ~$ gnome-tweaks
+
+---        
 
 Now time to install the `>_ .extensions` and `.activated`
 
@@ -76,7 +78,13 @@ Now time to install the `>_ .extensions` and `.activated`
         
         ~$ sudo apt install $(apt search gnome-shell-extension | grep ^gnome | cut –d / -f1)
 
+---
+
 *If everything get cool, you should open the App, then you just need to make then look like this*
 
 
 <h1 align="center"><image src="./source/homescreen3.png" /></h1>
+
+---
+
+<h3 align="center">Enjoy! :)</h3>
