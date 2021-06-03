@@ -3,16 +3,18 @@
 
 
 <h1 align="center">
-  <image src="./source/homescreen1.png" />
+  <image src="./source/homescreen1.png" /> <br>
+  <image src="./source/homescreen2.png" /> <br>
+  <image src="./source/homescreen1-1.png" /> <br>
 </h1>
 
-<h1 align="center">
+<!-- <h1 align="center">
   <image src="./source/homescreen2.png" />
 </h1>
 
 <h1 align="center">
   <image src="./source/homescreen1-1.png" />
-</h1>
+</h1> -->
 
 ---
 
@@ -41,6 +43,5 @@ After all extracted time to move it~
         `.icons` get ->    `icones-Mkos-Big-Sur` + `Cursor-macOSBigSur`
 
 ---
-
 <h1 align="center">SYSTEM SET-UP</h1>
 
