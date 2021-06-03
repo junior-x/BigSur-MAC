@@ -88,3 +88,7 @@ Now time to install the `>_ .extensions` and `.activated`
 ---
 
 <h3 align="center">Enjoy! :)</h3>
+
+<h1 align="center">
+  <image src="./source/homescreen1.png" /> <br>
+</h1>
