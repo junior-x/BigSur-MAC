@@ -60,3 +60,14 @@ Start `>_ Terminal`
 
         ~$ gnome-tweaks
 
+Now time to install the `>_ .extensions`
+
+        ~$ apt search gnome-shell-extension
+.
+
+        ~$ sudo apt install gnome-shell-extension-
+
+
+
+*If everything get cool, you should open the App, then you just need*
+<h1 align="center"><image src="./source/homescreen3.png" /></h1>
