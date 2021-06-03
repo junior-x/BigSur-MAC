@@ -50,10 +50,13 @@ After all extracted time to move it~
 Start `>_ Terminal` 
 
         ~$ sudo apt-get update
+.
 
         ~$ sudo apt-add-repository universe
+.
 
         ~$ sudo apt install gnome-tweak-tool
+.
 
         ~$ gnome-tweaks
 
