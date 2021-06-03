@@ -45,3 +45,15 @@ After all extracted time to move it~
 ---
 <h1 align="center">SYSTEM SET-UP</h1>
 
+# GNOME TWEAKS
+
+Start `>_ Terminal` 
+
+        ~$ sudo apt-get update
+
+        ~$ sudo apt-add-repository universe
+
+        ~$ sudo apt install gnome-tweak-tool
+
+        ~$ gnome-tweaks
+
